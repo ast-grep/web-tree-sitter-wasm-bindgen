@@ -1,7 +1,7 @@
 {
   "name": "web-tree-sitter-wasm-bindgen",
   "description": "Tree-sitter bindings for the web repackaged for compatibility with wasm-bindgen",
-  "version": "0.20.7",
+  "version": "0.20.8",
   "license": "Apache-2.0 WITH LLVM-exception",
   "author": {
     "name": "silvanshade",
@@ -18,7 +18,7 @@
     "lint": "eslint 'src/**/*.{js,ts,tsx}' && prettier --check '**/*.{json,yml,yaml}'"
   },
   "dependencies": {
-    "web-tree-sitter": "0.20.7"
+    "web-tree-sitter": "0.20.8"
   },
   "devDependencies": {
     "eslint": "^8.17.0",
